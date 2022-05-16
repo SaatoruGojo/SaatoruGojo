@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [WeShare](https://github.com/harshanand23561/WeShare)
 
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshanand23561](https://github.com/harshanand23561)
 
-- 💬 Ask me about **DSA, react.js, C++**
+- 💬 Ask me about **DSA, C++**
 
 - 📫 How to reach me **harshanand23561@gmail.com**
 
