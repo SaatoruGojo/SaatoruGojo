@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshanand23561&label=Profile%20views&color=b40e0e&style=flat" alt="harshanand23561" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshanand23561" alt="harshanand23561" /></a> </p>
 
 - 🌱 I’m currently learning **DSA**
 
