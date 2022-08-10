@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshanand23561" alt="harshanand23561" /></a> </p>
 
-- 🔭 I’m currently working on [WeShare](https://github.com/harshanand23561/WeShare)
-
 - 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshanand23561](https://github.com/harshanand23561)
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **harshanand23561@gmail.com**
 
-- ⚡ Fun fact **I Learning DSA and FUll Stack Side By Side**
+- ⚡ Fun fact **Invest in stock Market**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
