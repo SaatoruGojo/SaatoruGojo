@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Anand</h1>
-<h3 align="center">Self-driven and motivated Computer Science student adept at testing software products, developing and implementing new software platforms, and providing IT support and assistance to colleagues.</h3>
+<h3 align="center">Self-driven and motivated Computer Science student adept at testing software products, developing and implementing new software platforms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshanand23561&label=Profile%20views&color=b40e0e&style=flat" alt="harshanand23561" /> </p>
 
