@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, Harsh here ! 👋</h1>
 <div align="center">
 
-  ![](https://tenor.com/view/goku-super-saiyan-dragon-ball-z-gif-14746208)
+  ![]([https://tenor.com/view/goku-super-saiyan-dragon-ball-z-gif-14746208](https://c.tenor.com/RV4EzzxDSooAAAAC/goku-super-saiyan.gif))
 
 </div>
 
