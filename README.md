@@ -5,9 +5,9 @@
 
 
 - 🌱 I’m currently learning **DSA**
-
+<!---
 - 👨‍💻 All of my projects are available at [https://github.com/harshanand23561](https://github.com/harshanand23561)
-
+--->
 - 💬 Ask me about **DSA, C++**
 
 - 📫 How to reach me **harshanand23561@gmail.com**
