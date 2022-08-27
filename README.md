@@ -2,7 +2,7 @@
 <!-- <img src="https://media1.tenor.com/images/51e99cb402bc25786d4862f4bbc4135f/tenor.gif?itemid=19733803" width="600"> -->
 <div align="center">
 
-  ![DB]([https://tenor.com/view/goku-super-saiyan-dragon-ball-z-gif-14746208](https://c.tenor.com/RV4EzzxDSooAAAAC/goku-super-saiyan.gif))
+  ![DB](https://c.tenor.com/RV4EzzxDSooAAAAC/goku-super-saiyan.gif)
  
 </div>
 
