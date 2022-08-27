@@ -1,5 +1,9 @@
 <h1 align="center">Hey there, Harsh here ! 👋</h1>
-<div class="tenor-gif-embed" data-postid="14746208" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/goku-super-saiyan-dragon-ball-z-gif-14746208">Goku Super Saiyan GIF</a>from <a href="https://tenor.com/search/goku-gifs">Goku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+
+  ![](https://tenor.com/view/goku-super-saiyan-dragon-ball-z-gif-14746208)
+
+</div>
 
 <h3 align="center">Self-driven and motivated Computer Science student adept at testing software products, developing and implementing new software platforms.</h3>
 
