@@ -48,4 +48,4 @@
 
 :copyright: harshanand23561
 
-![](./assets/bottom_header.svg)
+![](bottom_header.svg)
