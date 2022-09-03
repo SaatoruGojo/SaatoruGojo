@@ -38,7 +38,7 @@
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=harshanand23561&show_icons=true&theme=radical&line_height=40&count_private=true&cache_seconds=1800&title_color=red&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=harshanand23561&show_icons=true&theme=radical&line_height=40&count_private=true&hide_border=true&hide=issues&cache_seconds=1800&title_color=red&include_all_commits=true">
 </p>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshanand23561&show_icons=true&hide_border=true&hide=issues&locale=en" alt="harshanand23561" /></p>
