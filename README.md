@@ -1,14 +1,16 @@
 <h1 align="center">Hey there, Harsh here ! 👋</h1>
-<!-- <img src="https://media1.tenor.com/images/51e99cb402bc25786d4862f4bbc4135f/tenor.gif?itemid=19733803" width="600"> -->
+<!-- <img src="https://media1.tenor.com/images/51e99cb402bc25786d4862f4bbc4135f/tenor.gif?itemid=19733803" width="600"> 
 <div align="center">
 
   ![DB](https://c.tenor.com/RV4EzzxDSooAAAAC/goku-super-saiyan.gif)
  
 </div>
-
+-->
 <h3 align="center">Self-driven and motivated Computer Science student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshanand23561&label=Profile%20views&color=b40e0e&style=flat" alt="harshanand23561" /> </p>
+
+<img width="55%" align="right" alt="Github" src="https://c.tenor.com/RV4EzzxDSooAAAAC/goku-super-saiyan.gif" />
 
 
 - 🌱 I’m currently learning **DSA**
