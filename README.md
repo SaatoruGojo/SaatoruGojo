@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshanand23561&label=Profile%20views&color=b40e0e&style=flat" alt="harshanand23561" /> </p>
 
-<img width="55%" align="right" alt="Github" src="https://tenor.com/bDZel.gif"/>
+<img width="55%" align="right" alt="Github" src="https://media.tenor.com/LCcB3SwhHWoAAAAC/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6-anime.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
