@@ -11,17 +11,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://media.tenor.com/oOJeT5pNhrMAAAAC/jujutsu-kaisen-%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6.gif"/>
 
-
-- 🌱 I’m currently learning **DSA**
-<!---
-- 👨‍💻 All of my projects are available at [https://github.com/harshanand23561](https://github.com/harshanand23561)
---->
-- 💬 Ask me about **DSA, C++**
-
-- 📫 How to reach me **harshanand23561@gmail.com**
-
-- ⚡ Fun fact **Invest in stock Market**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh27anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh27anand" height="30" width="40" /></a>
