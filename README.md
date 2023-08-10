@@ -12,8 +12,5 @@
 
 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaatoruGojo&show_icons=true&hide_border=true&hide=issues&locale=en" alt="Gojo" />
-
-
-:copyright: SaatoruGojo
-
 ![](bottom.svg)
+
