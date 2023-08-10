@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, Harsh here ! 👋</h1>
+<h1 align="center">Hey there, Gojo here ! 👋</h1>
 <!-- <img src="https://media1.tenor.com/images/51e99cb402bc25786d4862f4bbc4135f/tenor.gif?itemid=19733803" width="600"> 
 <div align="center">
 
@@ -6,7 +6,6 @@
  
 </div>
 -->
-<h3 align="center">Self-driven and motivated Computer Science student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshanand23561&label=Profile%20views&color=b40e0e&style=flat" alt="harshanand23561" /> </p>
 
@@ -34,20 +33,20 @@
 
 <!-- Stats Dashboard -->
 
-<p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshanand23561&theme=monokai-metallian" alt="harshanand23561" /></p>
+<p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaatoruGojo&theme=monokai-metallian" alt="Gojo" /></p>
 
-<p align="center"> <a href="https://github.com/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshanand23561&row=1&column=6&theme=onedark&column=8&no-frame=false&no-bg=false&title=Joined2020,Commits,PullRequest,Repositories,Followers,Star" alt="Harsh Anand"></a></p>
+
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=harshanand23561&show_icons=true&theme=radical&line_height=40&count_private=true&hide=issues&cache_seconds=1800&title_color=red&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SaatoruGojo&show_icons=true&theme=radical&line_height=40&count_private=true&hide=issues&cache_seconds=1800&title_color=red&include_all_commits=true">
 </p>
 <!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshanand23561&show_icons=true&hide_border=true&hide=issues&locale=en" alt="harshanand23561" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaatoruGojo&show_icons=true&hide_border=true&hide=issues&locale=en" alt="Gojo" /></p>
 -->
 
 
 
-:copyright: harshanand23561
+:copyright: SaatoruGojo
 
 ![](bottom.svg)
