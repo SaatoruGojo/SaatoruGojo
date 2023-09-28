@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media.tenor.com/LCcB3SwhHWoAAAAC/%E5%91%AA%E8%A1%93%E5%BB%BB%E6%88%A6-anime.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://media.tenor.com/NqeTF7CcgQMAAAAC/jjk-jujutsu-kaisen.gif" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -48,7 +48,7 @@
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://metrics.lecoq.io/https://github.com/SaatoruGojo?template=classic&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/https://github.com/SaatoruGojo?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
