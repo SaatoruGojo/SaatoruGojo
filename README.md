@@ -2,10 +2,9 @@
 <img width="100%" height = "250px" src="https://media.tenor.com/NqeTF7CcgQMAAAAC/jjk-jujutsu-kaisen.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellow < Developers/ >!</h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/SaatoruGojo.https://github.com/SaatoruGojo)
 
 </p>
 <div size='20px'> Hi! My name is Satoru Gojo. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -13,7 +12,7 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="1329536.jpeg" />
 
 
 - 🔭 I’m currently working on Exploring the vast world of data science, with a strong foundation in Python, Flask, and databases (MySQL, MongoDB, Cassandra). The journey has just begun.
@@ -56,4 +55,4 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<footer align='center'> <img align="center" alt="Github" src="bottom.svg" /></footer>
