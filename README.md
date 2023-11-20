@@ -9,8 +9,7 @@
 
 <h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="1329536.jpeg" />
-
+<!-- <img width="55%" align="right" alt="Github" src="1329536.jpeg" />-->
 
 - 🔭 I’m currently working on Exploring the vast world of data science, with a strong foundation in Python, Flask, and databases (MySQL, MongoDB, Cassandra). The journey has just begun.
 
