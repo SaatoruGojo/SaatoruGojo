@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://media.tenor.com/NqeTF7CcgQMAAAAC/jjk-jujutsu-kaisen.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >!</h1>
+<h1> नमस्ते (Namaste)</h1>
 
 <div size='20px'> Hi! My name is Satoru Gojo. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
