@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on Excited to collaborate on data analysis, machine learning, and predictive modeling projects. Open to meaningful data-driven collaborations. 
 
 - 💬 Talk to me about Reach out for tech, programming, or data science discussions. Proficient in Python, C++, and eager to explore more. Let's connect! 
-<h2> Current Update
+<h2> Current Update</h2>
 - Solved 400 Basic Python Problem
 - Solved 40 For Loop Problems
 - Solved 40 Control Flow Problem
