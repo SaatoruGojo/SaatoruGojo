@@ -18,9 +18,10 @@
 - 👯 I’m looking to collaborate on Excited to collaborate on data analysis, machine learning, and predictive modeling projects. Open to meaningful data-driven collaborations. 
 
 - 💬 Talk to me about Reach out for tech, programming, or data science discussions. Proficient in Python, C++, and eager to explore more. Let's connect! 
+
 <h2> Current Update (From November 2023)</h2>
-- Solved 400 Basic Python Problem.
-- Solved 40 For Loop Problems.
+- Solved 400 Basic Python Problem.</br>
+- Solved 40 For Loop Problems.</br>
 - Solved 40 Control Flow Problem.
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
@@ -37,12 +38,6 @@
 <a href = 'https://twitter.com/BeatingTalent'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://github.com/SaatoruGojo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-<!--
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@SatoruGojo&compact=True"/>
-</a>/>-->
 <br>
 
 <br>
