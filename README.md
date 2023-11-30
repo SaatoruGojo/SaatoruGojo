@@ -18,6 +18,10 @@
 - 👯 I’m looking to collaborate on Excited to collaborate on data analysis, machine learning, and predictive modeling projects. Open to meaningful data-driven collaborations. 
 
 - 💬 Talk to me about Reach out for tech, programming, or data science discussions. Proficient in Python, C++, and eager to explore more. Let's connect! 
+<h2> Current Update
+- Solved 400 Basic Python Problem
+- Solved 40 For Loop Problems
+- Solved 40 Control Flow Problem
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/SaatoruGojo?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
