@@ -4,9 +4,9 @@
 
 <h1>नमस्ते (Namaste)!</h1>
 
-- 🌱 Learning data science with Python, Flask, and databases (MySQL, MongoDB, Cassandra).
+- 🌱 Building expertise in data science.
 
-- 👯 Open to collaborate on data analysis, machine learning, and predictive modeling projects.
+- Currently, I am deep diving into developing skills in data structures and algorithms, enhancing coding proficiency, and mastering SQL.
 
 - 💬 Reach out for tech, programming, or data science discussions. Proficient in Python, C++.
 
