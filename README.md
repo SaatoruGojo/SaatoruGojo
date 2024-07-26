@@ -4,9 +4,9 @@
 
 <h1>नमस्ते (Namaste)!</h1>
 
-- 🌱 Building expertise in data science.
+- 🌱 Building expertise in Machine Learning.
 
-- Currently, I am deep diving into developing skills in data structures and algorithms, enhancing coding proficiency, and mastering SQL.
+- Currently, I am deep diving into developing skills in data structures and algorithms, enhancing coding proficiency.
 
 - 💬 Reach out for tech, programming, or data science discussions. Proficient in Python, C++.
 
