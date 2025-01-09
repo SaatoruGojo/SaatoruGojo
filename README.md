@@ -1,28 +1,51 @@
-<div align="center">
-<img width="100%" height="250px" src="https://media.tenor.com/NqeTF7CcgQMAAAAC/jjk-jujutsu-kaisen.gif" alt="cover" />
-</div>
+# 💻 Harsh Anand | Python/Django Developer 🌟
 
-<h1>नमस्ते (Namaste)!</h1>
+### Welcome to my GitHub profile! 👋
 
-- 🌱 Building expertise in Machine Learning.
+I am Harsh Anand, a Python developer specializing in Django and Flask with a passion for building scalable web applications and APIs. Currently, I work at TCS in Bangalore, where I’ve been honing my skills in backend development. I'm actively learning and working toward transitioning to a product-based company with a focus on Python and Django development.
 
-- Currently, I am deep diving into developing skills in data structures and algorithms, enhancing coding proficiency.
+---
 
-- 💬 Reach out for tech, programming, or data science discussions. Proficient in Python, C++.
+## 🚀 About Me:
+- 💼 **Current Role**: Developer at TCS, Bangalore.
+- 🛠️ **Tech Stack**:  
+  - **Languages**: Python,C++, JavaScript, SQL  
+  - **Frameworks**: Django, Flask, Django REST Framework  
+  - **Databases**: PostgreSQL, MySQL, MongoDB  
+  - **Tools**: Git, VS Code, Postman  
+- 🌱 **Learning**: Continuously advancing in **Django**, **Flask**, and **Machine Learning**.  
+- 🎯 **Career Goals**:  
+  - Short-term: Become a Python/Django developer at a product-based company.  
+  - Long-term: Transition into Machine Learning and AI.  
 
+---
 
-<h2> Skills </h2>
-<a href="https://github.com/SaatoruGojo?tab=repositories&q=&type=&language=python&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
-<a href="https://github.com/SaatoruGojo?tab=repositories&q=&type=&language=c&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"></a>
-<a href="https://github.com/SaatoruGojo?tab=repositories&q=&type=&language=cpp&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"></a>
-<a href="https://github.com/SaatoruGojo?tab=repositories&q=&type=&language=flask&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg"></a>
-<a href="https://github.com/SaatoruGojo?tab=repositories&q=&type=&language=mysql&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg"></a>
-<a href="https://github.com/SaatoruGojo?tab=repositories&q=&type=&language=mongodb&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"></a>
-<a href="https://github.com/SaatoruGojo?tab=repositories&q=&type=&language=cassandra&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cassandra.svg"></a>
+## 🏆 Achievements:
+- Successfully delivered multiple projects involving Flask APIs and integrated frontends.  
+- Strong understanding of REST API design and backend frameworks.  
+- Hands-on experience in creating scalable APIs and full-stack solutions.
 
+---
 
-<figure><embed src="https://wakatime.com/share/@SatoruGojo/3e49597c-1b0a-459d-82e4-e35e110d9d3b.svg"></embed></figure>
+## 🛠️ Projects:
+Here are some of the exciting projects I’ve worked on:  
+- **API Development for [Client Project]**  
+  Built RESTful APIs with Flask and integrated them with front-end systems.  
+- **Django Bookmark**  
+  A feature-rich web application built with Django that allows users to save, organize, and share bookmarks.  
+  - Includes user authentication, CRUD functionality for bookmarks, and tagging for easy categorization.  
+  - *Tech Stack*: Django, Django REST Framework, Python Social Auth, SQLite (Development), Redis (for analytics and caching).   
+  
 
-<h2> Connect with me </h2>
-<a href="https://twitter.com/BeatingTalent"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href="https://github.com/SaatoruGojo"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+---
+
+## 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/harsh27anand)  
+
+---
+
+### 🔭 Open to Opportunities
+I’m looking for challenging roles where I can leverage my Python/Django skills and contribute to impactful projects. If you’re hiring or collaborating on exciting projects, feel free to reach out!
+
+---
+**“Always learning, always improving.”**
