@@ -19,6 +19,10 @@ I am Harsh Anand, a Python developer specializing in Django and Flask with a pas
   - Long-term: Transition into Machine Learning and AI.  
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 
 ## 🏆 Achievements:
 - Successfully delivered multiple projects involving Flask APIs and integrated frontends.  
