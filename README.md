@@ -20,6 +20,11 @@ I am Harsh Anand, a Python developer specializing in Django and Flask with a pas
 
 ---
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
