@@ -22,7 +22,11 @@ I am Harsh Anand, a Python developer specializing in Django and Flask with a pas
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              2 hrs 4 mins    ████████████▓░░░░░░░░░░░░   50.82 %
+YAML              41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+XML               33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+Properties        19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Java Properties   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
 ```
 
 <!--END_SECTION:waka-->
